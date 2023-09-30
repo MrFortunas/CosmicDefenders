@@ -13,6 +13,18 @@ PrefabInstance:
       value: Enemy_3 Variant
       objectReference: {fileID: 0}
     - target: {fileID: 1944488344142601906, guid: 50d3469d9ee37514fa603e874862f8a7, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 1.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 1944488344142601906, guid: 50d3469d9ee37514fa603e874862f8a7, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 1.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 1944488344142601906, guid: 50d3469d9ee37514fa603e874862f8a7, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 1.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 1944488344142601906, guid: 50d3469d9ee37514fa603e874862f8a7, type: 3}
       propertyPath: m_LocalPosition.x
       value: -0.105
       objectReference: {fileID: 0}
